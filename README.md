@@ -5,7 +5,7 @@
 - [LandrixSoftware/XRechnung-for-Delphi](https://github.com/LandrixSoftware/XRechnung-for-Delphi) - The german XRechnung interface implementation for Delphi.
 - [LandrixSoftware/OpenConnect-for-Delphi](https://github.com/LandrixSoftware/OpenConnect-for-Delphi) - SHKConnect and IDSConnect interface implementation
 
-### 🔭 I support the following projects ...
+### 🔭 I'm supporting the following projects ...
 
 - [landrix/Zint-Barcode-Generator-for-Delphi](https://github.com/landrix/Zint-Barcode-Generator-for-Delphi)
 - [landrix/The-Drag-and-Drop-Component-Suite-for-Delphi](https://github.com/landrix/The-Drag-and-Drop-Component-Suite-for-Delphi)
