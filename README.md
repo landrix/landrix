@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on ...
 
 - [LandrixSoftware/XRechnung-for-Delphi](https://github.com/LandrixSoftware/XRechnung-for-Delphi) - The german XRechnung interface implementation for Delphi.
-- [LandrixSoftware/OpenConnect-for-Delphi](https://github.com/LandrixSoftware/OpenConnect-for-Delphi) - SHKConnect and IDSConnect interface implementation
+- [LandrixSoftware/IDSConnect-for-Delphi](https://github.com/LandrixSoftware/IDSConnect-for-Delphi) - IDSConnect interface implementation
 
 ### 🔭 I'm supporting the following projects ...
 
