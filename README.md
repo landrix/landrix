@@ -21,13 +21,13 @@
 
 ### :octocat: Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=landrix&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=landrix&theme=github_dark) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=landrix&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=landrix&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=landrix&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=landrix&theme=github_dark) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=landrix&theme=github) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=landrix&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=landrix&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=landrix&theme=github_dark) 
 
 <!--
 **landrix/landrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
