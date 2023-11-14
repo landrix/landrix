@@ -19,6 +19,9 @@
 - [norgepaul/TChromeTabs](https://github.com/norgepaul/TChromeTabs)
 - [dokan-dev/dokan-delphi](https://github.com/dokan-dev/dokan-delphi)
 
+### Connect with me:
+<a href="https://www.linkedin.com/in/svenharazim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svenharazim/" height="30" width="40" /></a>
+
 ### :octocat: Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=landrix&theme=github_dark) 
